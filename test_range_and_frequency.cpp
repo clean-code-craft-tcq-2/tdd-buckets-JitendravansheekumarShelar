@@ -1,6 +1,6 @@
 #define CATCH_CONFIG_MAIN
 
-#include "catch.hpp"
+#include "test/catch.hpp"
 #include "Range_and_Frequency.h"
 
 TEST_CASE("Read No of sequence samples from an array of 12 consecutive samples")
